@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
-<?php echo '<p>Hello hruchika vanjari motoaaddddddddddddaaaaaaaaa</p>'; ?> 
-<?php echo '<p>sssssssss</p>'; ?> 
+<?php echo '<p>Hello hruchika vanjari </p>'; ?> 
+<?php echo '<p>hi</p>'; ?> 
  </body>
 </html>
