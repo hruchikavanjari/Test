@@ -18,7 +18,7 @@ pipeline {
         
         stage('yarn build') {
             steps {
-                bat 'yarn build:production' 
+                bat 'yarn build' 
                 
             }
         }
