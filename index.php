@@ -7,6 +7,6 @@
 <h3>hi</h3>
 </div>
 <?php echo '<p>Hello World</p>'; ?> 
-<?php echo '<p>Hello hruchika</p>'; ?> 
+<?php echo '<p>Hello hruchika vanjari</p>'; ?> 
 </body>
 </html>
